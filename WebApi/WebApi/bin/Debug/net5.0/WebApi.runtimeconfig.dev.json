@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\evandro.barreto\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\evandro.barreto\\.nuget\\packages"
+      "C:\\Users\\evand\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\evand\\.nuget\\packages"
     ]
   }
 }

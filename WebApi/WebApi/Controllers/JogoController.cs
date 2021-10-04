@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,16 +9,14 @@ namespace WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
-    {      
-        
-
+    public class JogoController : ControllerBase
+    {
         [HttpPost]
         public IActionResult Post(Jogo jogada)
         {
-              
-              
-              return Ok();
+            var calculadora = new Calcula();
+            var teste = calculadora.Calcular(jogada);
+            return Ok(teste);
         }
     }
 }

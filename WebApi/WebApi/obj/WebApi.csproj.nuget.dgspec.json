@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\evandro.barreto\\Documents\\respo\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\evand\\source\\repos\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\evandro.barreto\\Documents\\respo\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\evand\\source\\repos\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\evandro.barreto\\Documents\\respo\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\evand\\source\\repos\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\evandro.barreto\\Documents\\respo\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\evandro.barreto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\evandro.barreto\\Documents\\respo\\JoKenPow\\WebApi\\WebApi\\obj\\",
+        "projectPath": "C:\\Users\\evand\\source\\repos\\JoKenPow\\WebApi\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\evand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evand\\source\\repos\\JoKenPow\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\evandro.barreto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
